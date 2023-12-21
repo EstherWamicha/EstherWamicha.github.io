@@ -1,0 +1,16 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "Hugo theme",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./assets/css/main.css -o ./assets/css/index.css --jit --minify --watch"
+  },
+  "author": "Esther Wamicha",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.4.0"
+  }
+}
