@@ -1,5 +1,6 @@
 name = 'automation'
 license = 'MIT'
+languageCode = 'en-us'
 licenselink = 'https://github.com/owner/repo/LICENSE'
 description = 'Theme description'
 
